@@ -1,5 +1,7 @@
 # ACEpotentials-Tutorial
 
+**Click [here](https://github.com/wcwitt/ACEpotentials-Tutorial/blob/main/ACEpotentials-Tutorial.ipynb) to view the tutorial.**
+
 Steps for using this tutorial on the Finnish CSC machines:
 
 1. Go to `https://www.mahti.csc.fi/` and log in.
