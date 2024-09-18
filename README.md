@@ -6,6 +6,6 @@ Steps for using this tutorial on the Finnish CSC machines:
 
 1. Go to `https://www.mahti.csc.fi/` and log in.
 2. Click the `Julia-Jupyter` option.
-3. Start a new session using 4 cores. Set `Jupyter type` to Notebook.
+3. Start a new session using 12 cores. Set `Jupyter type` to Notebook.
 4. After the job finishes queueing, click `Connect to Jupyter`.
-5. Upload the Jupyter notebook from this repo and get started. Be sure to use a Julia 1.9 kernel.
+5. Upload the Jupyter notebook from this repo and get started. Be sure to use a Julia 1.10.2 kernel.
